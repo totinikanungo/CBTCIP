@@ -1,1 +1,1 @@
-# python_intern-task
+# python_internship-task
