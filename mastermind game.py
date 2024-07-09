@@ -46,7 +46,7 @@ def gameplay(player1_id, player2_id):
     print(f"{player2_id} has entered the number.")
     
     while True:
-        guess = guessing_num(player1_id)
+        guess = guessing_num(player1_id , num2)
         player1_guess += 1
         if num2 == guess:
             print("Congrats!! You have guessed the number.")
